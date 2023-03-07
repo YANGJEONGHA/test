@@ -1,0 +1,16 @@
+/* style.css */
+button {
+    color: blue;
+    width: 100px;
+  }
+
+
+  table, th,  td {
+    border: 1px solid black;border-collapse: collapse;
+  }
+
+  .samsung { color: rgb(255, 0, 191);}
+  .fast-campus { width: 100px; }
+
+
+
